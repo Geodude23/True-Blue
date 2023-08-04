@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "",
+      "lastname": "",
+      "products": "",
+      "id": 1
+    },
+    {
+      "firstname": "Earl",
+      "lastname": "Alcantara",
+      "products": "Food",
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "products": "",
+      "id": 3
+    },
+    {
+      "firstname": "Ras",
+      "lastname": "Gee",
+      "products": "Food",
+      "id": 4
+    },
+    {
+      "firstname": "Jun",
+      "lastname": "Jan",
+      "products": "pokpok",
+      "id": 5
+    },
+    {
+      "firstname": "asdasfafa",
+      "lastname": "erhfhfdsdf",
+      "products": "fserytnsgf",
+      "id": 6
+    },
+    {
+      "firstname": "wakakakakak",
+      "lastname": "dsfsfafsafa",
+      "products": "ewtofsauajf",
+      "id": 7
+    }
+  ]
+}
